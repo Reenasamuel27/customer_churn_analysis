@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Customer Churn Analytics & Prediction Platform
 
 An end-to-end **industry-level data analytics, machine learning, and deep learning project** focused on predicting customer churn and explaining *why* customers leave. The project simulates a real-world business use case used by telecom, banking, SaaS, and subscription-based companies.
@@ -179,3 +180,6 @@ The dashboard includes:
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+=======
+# Customer-Churn-Analysis
+>>>>>>> ebbd5e7ce4d85759d3c685d44bd6c24c95ecc44c
