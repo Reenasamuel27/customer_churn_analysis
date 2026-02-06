@@ -118,7 +118,7 @@ Customer-Churn-Analytics/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/customer-churn-analytics.git
+git clone https://github.com/Reenasamuel27/customer-churn-analytics.git
 cd customer-churn-analytics
 ```
 
@@ -173,9 +173,8 @@ The dashboard includes:
 ## 👤 Author
 
 **Your Name**
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-🐙 GitHub: [https://github.com/your-username](https://github.com/your-username)
+📧 Email: [jenisam98896@gmail.com(mailto:your.email@example.com)
+🐙 GitHub:(https://github.com/Reenasamuel27)
 
 ---
 
